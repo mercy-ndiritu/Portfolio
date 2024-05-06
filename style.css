@@ -302,3 +302,12 @@ span{
     margin-top: 2rem;
     cursor: pointer;
 }
+/* For devices with a maximum width of 768px (tablets) */
+@media (max-width: 768px) {
+    /* CSS rules for tablets */
+}
+
+/* For devices with a maximum width of 480px (phones) */
+@media (max-width: 480px) {
+    /* CSS rules for phones */
+}
